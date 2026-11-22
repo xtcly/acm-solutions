@@ -1,0 +1,15 @@
+# 编译产物
+*.exe
+*.out
+*.o
+*.obj
+a.out
+main
+
+# 编辑器
+.vscode/*
+!.vscode/settings.json
+
+# 系统
+.DS_Store
+Thumbs.db
